@@ -13,7 +13,7 @@ public class StudentService {
         return List.of(
                 new Student(
                         1L,
-                        "Imran",
+                        "Imran M",
                         "hello@imraan.in",
                         LocalDate.of(1987, Month.NOVEMBER, 28),
                         25
